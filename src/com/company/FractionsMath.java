@@ -35,7 +35,6 @@ public class FractionsMath {
     }
 
 
-
     public static Fraction square(Fraction fraction) {
         return product(fraction, fraction);
     }
